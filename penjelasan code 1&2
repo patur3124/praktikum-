@@ -1,0 +1,21 @@
+Input N:
+The user is prompted to input how many numbers they want to compare (N).
+Initialize Variables:
+MAX = 0: This is where the largest number will be stored. Initially, it's set to 0.
+i = 1: A counter to track how many numbers have been input.
+Loop:
+The loop runs from 1 to N (while i <= N:), meaning it will execute exactly N times.
+Inside the loop, the user inputs a number, and the program checks if this number is greater than the current value of MAX. If it is, MAX is updated to this new number.
+Update Counter:
+After checking each number, i is incremented by 1 to move to the next number.
+Display Result:
+Once the loop finishes, the program prints the largest number that was input.
+This matches the logic in the flowchart and handles input, comparison, and output in a simple loop.
+
+
+
+
+
+
+
+
